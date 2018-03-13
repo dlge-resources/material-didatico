@@ -1,11 +1,9 @@
 # DLGE - Desenvolvimento Linux - Grupo de Estudo
 
-## Jornada I - Computadores e arquitetura de sistemas computacionais
+## Introdução
 
 
 *“E no início, o início”.*
-
-__Introdução__
 
 Olá pequeno gafanhoto, seja bem vindo ao nosso grupo de estudos. Somos uma comunidade de desenvolvedores, entusiastas, utilizadores, professores, alunos, designers, fotógrafos, ilustradores, empreendedores, curioso, enfim... somos uma comunidade diversa.
 
