@@ -1,11 +1,11 @@
-DLGE - Desenvolvimento Linux - Grupo de Estudo
+# DLGE - Desenvolvimento Linux - Grupo de Estudo
 
-Jornada I - Computadores e arquitetura de sistemas computacionais
+## Jornada I - Computadores e arquitetura de sistemas computacionais
 
 
-“E no início, o início”.
+*“E no início, o início”.*
 
-Introdução
+__Introdução__
 
 Olá pequeno gafanhoto, seja bem vindo ao nosso grupo de estudos. Somos uma comunidade de desenvolvedores, entusiastas, utilizadores, professores, alunos, designers, fotógrafos, ilustradores, empreendedores, curioso, enfim... somos uma comunidade diversa.
 
@@ -17,4 +17,4 @@ O uso desta magnífica ferramenta não está restrito ao auxílio de processos i
 
 Paquera, pesquisa, entretenimento, trabalho, educação, obras de arte… não há fronteiras no uso da tecnologia disponível no século XXI. Sem dúvidas, o computador mudou o mundo.
 
-No curso desta primeira jornada apresentaremos o computador. De maneira breve conheceremos sua história, arquitetura e os componentes básicos que o definem como um sistema computacional.
+No curso desta [primeira jornada](./jornadas/I/README.md) apresentaremos o computador. De maneira breve conheceremos sua história, arquitetura e os componentes básicos que o definem como um sistema computacional.
