@@ -5,9 +5,11 @@
 
 *“E no início, o início”.*
 
-Olá pequeno gafanhoto, seja bem vindo ao nosso grupo de estudos. Somos uma __comunidade__ de desenvolvedores, entusiastas, utilizadores, professores, alunos, designers, fotógrafos, ilustradores, empreendedores, curiosos, enfim... somos uma comunidade diversa.
+Olá pequeno gafanhoto, seja bem vindo ao nosso grupo de estudos. 
 
-Nosso objetivo é a grandeza. Nosso método, a __simplicidade__. O meio? O estudo técnico de parte de uma das ferramentas mais importantes criadas no séc. XX. A criação que revolucionou o funcionamento e dinâmica do mundo moderno, alavancando a capacidade humana de interagir, automatizar tarefas, encurtar distâncias, difundir conhecimento e construir toda sorte de soluções e facilidades presentes na vida cotidiana.
+Somos uma __comunidade__ de desenvolvedores, entusiastas, utilizadores, professores, alunos, designers, fotógrafos, ilustradores, empreendedores, curiosos, enfim... somos uma comunidade diversa.
+
+Nosso objetivo é a grandeza. Nosso método, a __simplicidade__. O meio? O estudo de parte de uma das ferramentas mais importantes criadas no séc. XX. A criação que revolucionou o funcionamento e dinâmica do mundo moderno, alavancando a capacidade humana de interagir, automatizar tarefas, encurtar distâncias, difundir conhecimento e construir toda sorte de soluções e facilidades presentes na vida cotidiana.
 
 __Os computadores estão presentes e são responsáveis hoje por uma vasta gama de atividades e processos__. 
 
